@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/code_basicclass/code_basicclass.iml" filepath="$PROJECT_DIR$/code_basicclass/code_basicclass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_class/code_class.iml" filepath="$PROJECT_DIR$/code_class/code_class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_collection/code_collection.iml" filepath="$PROJECT_DIR$/code_collection/code_collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_date/code_date.iml" filepath="$PROJECT_DIR$/code_date/code_date.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_duotai/code_duotai.iml" filepath="$PROJECT_DIR$/code_duotai/code_duotai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_exam/code_exam.iml" filepath="$PROJECT_DIR$/code_exam/code_exam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_exception/code_exception.iml" filepath="$PROJECT_DIR$/code_exception/code_exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_homework/code_homework.iml" filepath="$PROJECT_DIR$/code_homework/code_homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_lambda/code_lambda.iml" filepath="$PROJECT_DIR$/code_lambda/code_lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_lesson/code_lesson.iml" filepath="$PROJECT_DIR$/code_lesson/code_lesson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_net/code_net.iml" filepath="$PROJECT_DIR$/code_net/code_net.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_newinterface/code_newinterface.iml" filepath="$PROJECT_DIR$/code_newinterface/code_newinterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_plus/code_plus.iml" filepath="$PROJECT_DIR$/code_plus/code_plus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_reflect/code_reflect.iml" filepath="$PROJECT_DIR$/code_reflect/code_reflect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_review/code_review.iml" filepath="$PROJECT_DIR$/code_review/code_review.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_stream/code_stream.iml" filepath="$PROJECT_DIR$/code_stream/code_stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_study/code_study.iml" filepath="$PROJECT_DIR$/code_study/code_study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_thread/code_thread.iml" filepath="$PROJECT_DIR$/code_thread/code_thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/idea_code/idea_code.iml" filepath="$PROJECT_DIR$/idea_code/idea_code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/idea_test.iml" filepath="$PROJECT_DIR$/idea_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/idea_test1.iml" filepath="$PROJECT_DIR$/idea_test1.iml" />
+    </modules>
+  </component>
+</project>
